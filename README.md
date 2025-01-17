@@ -1,0 +1,2 @@
+This lab included setting up git and github, downloading code with errors in it and fixing them while uploading each commit to a github page.
+The index.html file contains html that will open a website containing reading travelling and gaming categories. There are different versions of the website that showcase different steps in the process where the code had erros fixed. The code was fixed by correcting the a tags, closing the header and closing the li tag for the travelling section.
